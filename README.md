@@ -177,10 +177,10 @@ Shows at site header part.
 
 ```yml
 # Site settings
-title: HyG
+title: Roc
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "http://RocGit.github.io" # the base hostname & protocol for your site
 ```
 
 #### Link info
@@ -189,14 +189,14 @@ Mainly shows at the footer of the site.
 
 ```yml
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
+twitter_username: XXX
+facebook_username: XXX
+github_username:  RocGit
 email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
-dribbble_username:
+weibo_username: XXX
+zhihu_username: XXX
+linkedIn_username: XXX
+dribbble_username: XXX
 
 description_footer: 本站记录我前端之旅的沿途风景！
 ```
@@ -210,7 +210,7 @@ Visit https://disqus.com/ or http://duoshuo.com/. And follow the prompts at the 
 ```yml
 # comments
 # two ways to comment, only choose one, and use your own short name
-duoshuo_shortname: #hygblog
+duoshuo_shortname: XXX
 disqus_shortname: xxxx
 ```
 

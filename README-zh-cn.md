@@ -1,14 +1,14 @@
 # 关于这个简洁明快的博客主题 🤘🤘🤘
 
-[![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/network)
-[![GitHub issues](https://img.shields.io/github/issues/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)
-[![GitHub release](https://img.shields.io/github/release/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/releases)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Gaohaoyang/gaohaoyang.github.io/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/RocGit/RocGit.github.io.svg)](https://github.com/RocGit/RocGit.github.io/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RocGit/RocGit.github.io.svg)](https://github.com/RocGit/RocGit.github.io/network)
+[![GitHub issues](https://img.shields.io/github/issues/RocGit/RocGit.github.io.svg)](https://github.com/RocGit/RocGit.github.io/issues)
+[![GitHub release](https://img.shields.io/github/release/RocGit/RocGit.github.io.svg)](https://github.com/RocGit/RocGit.github.io/releases)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/RocGit/RocGit.github.io/master/LICENSE)
 
 随着 jekyll 的版本升级，同时我也想重构我的旧版博客主题，因此在这个月对博客进行了重构加改版，这个仓库存放我的新博客，并且我也会一直使用这个主题。目前基本改版完成，后续可能还会有些细节上的修补。
 
-**博客访问地址：[http://gaohaoyang.github.io/](http://gaohaoyang.github.io/)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
+**博客访问地址：[http://RocGit.github.io/](http://RocGit.github.io/)**。若您喜欢这个新的博客主题，请给我个star以示鼓励吧，欢迎大家使用。
 
 ## 目录
 
@@ -180,7 +180,7 @@ gem install jekyll
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
+url: "https://RocGit.github.io" # the base hostname & protocol for your site
 ```
 
 #### 链接信息
@@ -189,13 +189,13 @@ url: "http://gaohaoyang.github.io" # the base hostname & protocol for your site
 
 ```yml
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
+twitter_username: XXX
+facebook_username: XXX
+github_username:  RocGit
 email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+weibo_username: XXX
+zhihu_username: XXX
+linkedIn_username: XXX
 dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
@@ -211,8 +211,8 @@ description_footer: 本站记录我前端之旅的沿途风景！
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: gaohaoyang
+duoshuo_shortname: XXX
+disqus_shortname: XXX
 ```
 
 运行成功后，可以在 disqus 或 多说 的后台管理页看到相关信息。
@@ -406,4 +406,4 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 
 ## License
 
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+[MIT License](https://github.com/RocGit/RocGit.github.io/blob/master/LICENSE.md)
